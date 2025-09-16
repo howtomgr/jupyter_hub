@@ -1,0 +1,64 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.876659",
+  "default_ports": [
+    80,
+    443,
+    8000
+  ],
+  "dependencies": [
+    "python3",
+    "python3-pip"
+  ],
+  "description": "jupyter-hub is a free and open-source multi-user Jupyter. JupyterHub provides multi-user server for Jupyter notebooks",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/jupyter_hub",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/jupyter_hub",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.876681",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "jupyter_hub",
+  "repository_url": "https://github.com/howtomgr/jupyter_hub",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "jupyter-hub Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/jupyter_hub"
+}
